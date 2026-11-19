@@ -1,0 +1,22 @@
+scenario,policy,n_replications,mean_heldout_net_gain_m,median_heldout_net_gain_m,sd_between_replications_m,t95_lower_m,t95_upper_m,bootstrap95_lower_m,bootstrap95_upper_m,positive_replication_fraction,zero_replication_fraction,negative_replication_fraction,query_execution_fraction
+Constructed overlapping-response case,No query,30,0,0,0,0,0,0,0,0,1,0,0
+Constructed overlapping-response case,Random sampled (per-query stop),30,0.322189906677788,0.446861242442302,0.215344451637256,0.241787995607322,0.402591817748255,0.24497656329132,0.395058375245879,0.7,0.3,0,0.7
+Constructed overlapping-response case,Random expected (per-query stop),30,0.301445010925065,0.300125995384027,0.00669537745982055,0.298945196608908,0.303944825241221,0.299146344253542,0.303788961116495,1,0,0,0.666666666666667
+Constructed overlapping-response case,Variance-first (stop),30,0,0,0,0,0,0,0,0,1,0,0
+Constructed overlapping-response case,Variance-first (forced),30,-0.138444498129889,-0.145312804456876,0.0213305993066788,-0.146408580489551,-0.130480415770228,-0.145748175301341,-0.130695359800583,0,0,1,1
+Constructed overlapping-response case,Decision-aware D3+,30,0.467732796340167,0.465741163967876,0.0169563889509994,0.46140188757447,0.474063705105864,0.461748093461121,0.473709304344324,1,0,0,1
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),30,1.61421941681011,1.61409755063097,0.010729388136767,1.61021344728429,1.61822538633592,1.61053073804394,1.61804118651584,1,0,0,1
+composition of fitted anchors from one truck,No query,30,0,0,0,0,0,0,0,0,1,0,0
+composition of fitted anchors from one truck,Random sampled (per-query stop),30,0,0,0,0,0,0,0,0,1,0,0
+composition of fitted anchors from one truck,Random expected (per-query stop),30,-0,0,0,-0,0,-0,-0,0,1,0,0
+composition of fitted anchors from one truck,Variance-first (stop),30,0,0,0,0,0,0,0,0,1,0,0
+composition of fitted anchors from one truck,Variance-first (forced),30,-0.368411062794936,-0.366488813568776,0.0123973466577983,-0.373039788336326,-0.363782337253545,-0.372725723782122,-0.364077262683004,0,0,1,1
+composition of fitted anchors from one truck,Decision-aware D3+,30,0,0,0,0,0,0,0,0,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),30,0.2583325334554,0.255462241531237,0.0177871662185843,0.251691442191478,0.264973624719322,0.251976944815956,0.264528827133773,1,0,0,1
+Narrow-support negative control,No query,30,0,0,0,0,0,0,0,0,1,0,0
+Narrow-support negative control,Random sampled (per-query stop),30,0,0,0,0,0,0,0,0,1,0,0
+Narrow-support negative control,Random expected (per-query stop),30,-0,0,0,-0,0,-0,-0,0,1,0,0
+Narrow-support negative control,Variance-first (stop),30,0,0,0,0,0,0,0,0,1,0,0
+Narrow-support negative control,Variance-first (forced),30,-0.699894325376379,-0.699916579255991,7.9543937018272e-05,-0.699924024235587,-0.699864626517171,-0.699919361371805,-0.699863498269151,0,0,1,1
+Narrow-support negative control,Decision-aware D3+,30,0,0,0,0,0,0,0,0,1,0,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),30,0,0,0,0,0,0,0,0,1,0,0

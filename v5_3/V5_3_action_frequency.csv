@@ -1,0 +1,19 @@
+scenario,method,n_replications,truck1_selection_fraction,truck2_selection_fraction,truck3_selection_fraction,STOP_fraction
+Overlap,Continuous tau / root time,10,0.8,0.2,0,0
+Overlap,N_tau=21 / root time,10,0.7,0.3,0,0
+Overlap,N_tau=51 / root time,10,0.8,0.2,0,0
+Overlap,N_tau=101 / root time,10,0.8,0.2,0,0
+Overlap,N_tau=201 / root time,10,0.8,0.2,0,0
+Overlap,N_tau=401 / root time,10,0.8,0.2,0,0
+Fitted proxy,Continuous tau / root time,10,0,0,0,1
+Fitted proxy,N_tau=21 / root time,10,0,0,0,1
+Fitted proxy,N_tau=51 / root time,10,0,0,0,1
+Fitted proxy,N_tau=101 / root time,10,0,0,0,1
+Fitted proxy,N_tau=201 / root time,10,0,0,0,1
+Fitted proxy,N_tau=401 / root time,10,0,0,0,1
+Narrow,Continuous tau / root time,10,0,0,0,1
+Narrow,N_tau=21 / root time,10,0,0,0,1
+Narrow,N_tau=51 / root time,10,0,0,0,1
+Narrow,N_tau=101 / root time,10,0,0,0,1
+Narrow,N_tau=201 / root time,10,0,0,0,1
+Narrow,N_tau=401 / root time,10,0,0,0,1

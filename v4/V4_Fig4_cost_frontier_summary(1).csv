@@ -1,0 +1,427 @@
+scenario,policy,fee_mEquivalent,n_replications,mean_heldout_net_gain_m,median_heldout_net_gain_m,sd_between_replications_m,t95_lower_m,t95_upper_m,positive_replication_fraction,zero_replication_fraction,negative_replication_fraction
+Constructed overlapping-response case,D3+ decision-aware,0,30,1.16773279634017,1.16574116396788,0.0169563889509994,1.16140188757447,1.17406370510586,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.05,30,1.11773279634017,1.11574116396788,0.0169563889509994,1.11140188757447,1.12406370510586,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.1,30,1.06773279634017,1.06574116396788,0.0169563889509994,1.06140188757447,1.07406370510586,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.15,30,1.01773279634017,1.01574116396788,0.0169563889509994,1.01140188757447,1.02406370510586,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.2,30,0.967732796340168,0.965741163967876,0.0169563889509994,0.961401887574471,0.974063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.25,30,0.917732796340167,0.915741163967876,0.0169563889509994,0.91140188757447,0.924063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.3,30,0.867732796340167,0.865741163967876,0.0169563889509994,0.86140188757447,0.874063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.35,30,0.817732796340167,0.815741163967876,0.0169563889509994,0.81140188757447,0.824063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.4,30,0.767732796340167,0.765741163967876,0.0169563889509994,0.76140188757447,0.774063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.45,30,0.717732796340167,0.715741163967876,0.0169563889509994,0.711401887574471,0.724063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.5,30,0.667732796340167,0.665741163967876,0.0169563889509994,0.66140188757447,0.674063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.55,30,0.617732796340167,0.615741163967876,0.0169563889509994,0.61140188757447,0.624063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.6,30,0.567732796340167,0.565741163967876,0.0169563889509994,0.56140188757447,0.574063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.65,30,0.517732796340167,0.515741163967876,0.0169563889509994,0.51140188757447,0.524063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.7,30,0.467732796340167,0.465741163967876,0.0169563889509994,0.46140188757447,0.474063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.75,30,0.417732796340167,0.415741163967876,0.0169563889509994,0.41140188757447,0.424063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.8,30,0.367732796340167,0.365741163967876,0.0169563889509994,0.36140188757447,0.374063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.85,30,0.317732796340167,0.315741163967876,0.0169563889509994,0.31140188757447,0.324063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.9,30,0.267732796340167,0.265741163967876,0.0169563889509994,0.26140188757447,0.274063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,0.95,30,0.217732796340167,0.215741163967876,0.0169563889509994,0.21140188757447,0.224063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,1,30,0.167732796340167,0.165741163967876,0.0169563889509994,0.16140188757447,0.174063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,1.05,30,0.117732796340167,0.115741163967876,0.0169563889509994,0.11140188757447,0.124063705105864,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,1.1,30,0.067732796340167,0.0657411639678762,0.0169563889509994,0.0614018875744701,0.0740637051058639,1,0,0
+Constructed overlapping-response case,D3+ decision-aware,1.15,30,0.0153770430284865,0.0106546989881999,0.016144645849821,0.00934921008451052,0.0214048759724624,0.7,0.233333333333333,0.0666666666666667
+Constructed overlapping-response case,D3+ decision-aware,1.2,30,-0.00231895896509608,0,0.00811584955721798,-0.00534912672377091,0.000711208793578756,0,0.9,0.1
+Constructed overlapping-response case,D3+ decision-aware,1.25,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.3,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.35,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.4,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.45,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.5,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.55,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.6,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.65,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.7,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.75,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.8,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.85,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.9,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,1.95,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.05,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.1,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.15,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.2,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.25,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.3,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.35,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.4,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.45,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.5,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.55,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.6,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.65,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.7,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.75,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.8,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.85,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.9,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,2.95,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.05,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.1,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.15,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.2,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.25,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.3,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.35,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.4,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.45,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,D3+ decision-aware,3.5,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0,30,2.31421941681011,2.31409755063097,0.010729388136767,2.31021344728429,2.31822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.05,30,2.26421941681011,2.26409755063097,0.010729388136767,2.26021344728429,2.26822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.1,30,2.21421941681011,2.21409755063097,0.010729388136767,2.21021344728429,2.21822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.15,30,2.16421941681011,2.16409755063097,0.010729388136767,2.16021344728429,2.16822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.2,30,2.1142194168101,2.11409755063097,0.010729388136767,2.11021344728429,2.11822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.25,30,2.06421941681011,2.06409755063097,0.010729388136767,2.06021344728429,2.06822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.3,30,2.01421941681011,2.01409755063097,0.010729388136767,2.01021344728429,2.01822538633593,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.35,30,1.96421941681011,1.96409755063097,0.010729388136767,1.96021344728429,1.96822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.4,30,1.91421941681011,1.91409755063097,0.010729388136767,1.91021344728429,1.91822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.45,30,1.8642194168101,1.86409755063097,0.010729388136767,1.86021344728429,1.86822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.5,30,1.81421941681011,1.81409755063097,0.010729388136767,1.81021344728429,1.81822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.55,30,1.76421941681011,1.76409755063097,0.010729388136767,1.76021344728429,1.76822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.6,30,1.71421941681011,1.71409755063097,0.010729388136767,1.71021344728429,1.71822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.65,30,1.66421941681011,1.66409755063097,0.010729388136767,1.66021344728429,1.66822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.7,30,1.61421941681011,1.61409755063097,0.010729388136767,1.61021344728429,1.61822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.75,30,1.56421941681011,1.56409755063097,0.010729388136767,1.56021344728429,1.56822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.8,30,1.51421941681011,1.51409755063097,0.010729388136767,1.51021344728429,1.51822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.85,30,1.46421941681011,1.46409755063097,0.010729388136767,1.46021344728429,1.46822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.9,30,1.41421941681011,1.41409755063097,0.010729388136767,1.41021344728429,1.41822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),0.95,30,1.36421941681011,1.36409755063097,0.010729388136767,1.36021344728429,1.36822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1,30,1.31421941681011,1.31409755063097,0.010729388136767,1.31021344728429,1.31822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.05,30,1.26421941681011,1.26409755063097,0.010729388136767,1.26021344728429,1.26822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.1,30,1.21421941681011,1.21409755063097,0.010729388136767,1.21021344728429,1.21822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.15,30,1.16421941681011,1.16409755063097,0.010729388136767,1.16021344728429,1.16822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.2,30,1.11421941681011,1.11409755063097,0.010729388136767,1.11021344728429,1.11822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.25,30,1.06421941681011,1.06409755063097,0.010729388136767,1.06021344728429,1.06822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.3,30,1.01421941681011,1.01409755063097,0.010729388136767,1.01021344728429,1.01822538633592,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.35,30,0.964219416810105,0.964097550630969,0.010729388136767,0.960213447284287,0.968225386335923,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.4,30,0.914219416810106,0.914097550630969,0.010729388136767,0.910213447284288,0.918225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.45,30,0.864219416810106,0.864097550630969,0.010729388136767,0.860213447284288,0.868225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.5,30,0.814219416810106,0.814097550630969,0.010729388136767,0.810213447284288,0.818225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.55,30,0.764219416810106,0.764097550630969,0.010729388136767,0.760213447284287,0.768225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.6,30,0.714219416810106,0.714097550630969,0.010729388136767,0.710213447284288,0.718225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.65,30,0.664219416810106,0.664097550630969,0.010729388136767,0.660213447284288,0.668225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.7,30,0.614219416810106,0.614097550630969,0.010729388136767,0.610213447284288,0.618225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.75,30,0.564219416810106,0.564097550630969,0.010729388136767,0.560213447284288,0.568225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.8,30,0.514219416810106,0.514097550630969,0.010729388136767,0.510213447284288,0.518225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.85,30,0.464219416810106,0.464097550630969,0.010729388136767,0.460213447284288,0.468225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.9,30,0.414219416810106,0.414097550630969,0.010729388136767,0.410213447284288,0.418225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),1.95,30,0.364219416810106,0.364097550630969,0.010729388136767,0.360213447284288,0.368225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2,30,0.314219416810106,0.314097550630969,0.010729388136767,0.310213447284288,0.318225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.05,30,0.264219416810106,0.264097550630969,0.010729388136767,0.260213447284288,0.268225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.1,30,0.214219416810106,0.214097550630969,0.010729388136767,0.210213447284288,0.218225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.15,30,0.164219416810106,0.164097550630969,0.010729388136767,0.160213447284288,0.168225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.2,30,0.114219416810106,0.114097550630968,0.010729388136767,0.110213447284288,0.118225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.25,30,0.0642194168101059,0.0640975506309687,0.010729388136767,0.0602134472842878,0.068225386335924,1,0,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.3,30,0.0121986694802899,0.0107599202975139,0.011798584898068,0.00779350015031919,0.0166038388102607,0.733333333333333,0.2,0.0666666666666667
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.35,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.4,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.45,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.5,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.55,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.6,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.65,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.7,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.75,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.8,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.85,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.9,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),2.95,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.05,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.1,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.15,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.2,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.25,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.3,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.35,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.4,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.45,30,0,0,0,0,0,0,1,0
+Constructed overlapping-response case,Ideal tau revelation (non-deployable),3.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0,30,0.331588937205064,0.333511186431224,0.0123973466577983,0.326960211663674,0.336217662746454,1,0,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.05,30,0.281588937205064,0.283511186431224,0.0123973466577983,0.276960211663674,0.286217662746454,1,0,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.1,30,0.231588937205064,0.233511186431224,0.0123973466577983,0.226960211663674,0.236217662746454,1,0,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.15,30,0.181588937205064,0.183511186431224,0.0123973466577983,0.176960211663674,0.186217662746454,1,0,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.2,30,0.131588937205064,0.133511186431224,0.0123973466577983,0.126960211663674,0.136217662746454,1,0,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.25,30,0.0815889372050641,0.0835111864312239,0.0123973466577983,0.0769602116636739,0.0862176627464544,1,0,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.3,30,0.031023229797495,0.0335111864312239,0.0134314537391918,0.026008405682571,0.0360380539124189,0.966666666666667,0.0333333333333333,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.35,30,-0.00529333084663453,0,0.0116592991894816,-0.00964649587805009,-0.000940165815218972,0,0.8,0.2
+composition of fitted anchors from one truck,D3+ decision-aware,0.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.55,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.6,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.65,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.7,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.75,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.8,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.85,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.9,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,0.95,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.05,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.15,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.25,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.35,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.55,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.6,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.65,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.7,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.75,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.8,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.85,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.9,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,1.95,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.05,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.15,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.25,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.35,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.55,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.6,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.65,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.7,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.75,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.8,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.85,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.9,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,2.95,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.05,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.15,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.25,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.35,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,D3+ decision-aware,3.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0,30,0.9583325334554,0.955462241531237,0.0177871662185843,0.951691442191479,0.964973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.05,30,0.9083325334554,0.905462241531237,0.0177871662185843,0.901691442191478,0.914973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.1,30,0.8583325334554,0.855462241531237,0.0177871662185843,0.851691442191478,0.864973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.15,30,0.808332533455401,0.805462241531237,0.0177871662185843,0.801691442191479,0.814973624719323,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.2,30,0.758332533455401,0.755462241531237,0.0177871662185843,0.751691442191479,0.764973624719323,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.25,30,0.7083325334554,0.705462241531237,0.0177871662185843,0.701691442191479,0.714973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.3,30,0.6583325334554,0.655462241531237,0.0177871662185843,0.651691442191478,0.664973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.35,30,0.6083325334554,0.605462241531237,0.0177871662185843,0.601691442191479,0.614973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.4,30,0.5583325334554,0.555462241531237,0.0177871662185843,0.551691442191478,0.564973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.45,30,0.508332533455401,0.505462241531237,0.0177871662185843,0.501691442191479,0.514973624719323,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.5,30,0.4583325334554,0.455462241531237,0.0177871662185843,0.451691442191479,0.464973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.55,30,0.4083325334554,0.405462241531237,0.0177871662185843,0.401691442191478,0.414973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.6,30,0.358332533455401,0.355462241531237,0.0177871662185843,0.351691442191479,0.364973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.65,30,0.3083325334554,0.305462241531237,0.0177871662185843,0.301691442191478,0.314973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.7,30,0.2583325334554,0.255462241531237,0.0177871662185843,0.251691442191478,0.264973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.75,30,0.2083325334554,0.205462241531237,0.0177871662185843,0.201691442191479,0.214973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.8,30,0.1583325334554,0.155462241531237,0.0177871662185843,0.151691442191479,0.164973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.85,30,0.1083325334554,0.105462241531237,0.0177871662185843,0.101691442191479,0.114973624719322,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.9,30,0.0583325334554005,0.0554622415312366,0.0177871662185843,0.0516914421914786,0.0649736247193223,1,0,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),0.95,30,0.00589868063980095,0,0.01415622451682,0.000613253056033089,0.0111841082235688,0.466666666666667,0.3,0.233333333333333
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1,30,-0.00427301962369787,0,0.013908821339246,-0.00946607571551124,0.000920036468115506,0,0.9,0.1
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.05,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.15,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.25,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.35,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.55,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.6,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.65,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.7,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.75,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.8,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.85,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.9,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),1.95,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.05,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.15,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.25,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.35,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.5,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.55,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.6,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.65,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.7,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.75,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.8,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.85,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.9,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),2.95,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.05,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.1,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.15,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.2,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.25,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.3,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.35,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.4,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.45,30,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Ideal tau revelation (non-deployable),3.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0,30,0.00045062738947171,0.000379359272340452,0.000257119558019186,0.000354628148807923,0.000546626630135498,1,0,0
+Narrow-support negative control,D3+ decision-aware,0.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.55,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.6,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.65,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.7,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.75,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.8,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.85,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.9,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,0.95,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.55,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.6,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.65,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.7,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.75,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.8,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.85,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.9,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,1.95,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.55,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.6,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.65,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.7,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.75,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.8,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.85,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.9,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,2.95,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,D3+ decision-aware,3.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0,30,0.0944328442326572,0.0942098172453747,0.00143155498921126,0.093898352834992,0.0949673356303224,1,0,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.05,30,0.0444328442326572,0.0442098172453747,0.00143155498921126,0.043898352834992,0.0449673356303224,1,0,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.55,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.6,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.65,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.7,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.75,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.8,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.85,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.9,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),0.95,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.55,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.6,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.65,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.7,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.75,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.8,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.85,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.9,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),1.95,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.5,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.55,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.6,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.65,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.7,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.75,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.8,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.85,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.9,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),2.95,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.05,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.1,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.15,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.2,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.25,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.3,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.35,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.4,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.45,30,0,0,0,0,0,0,1,0
+Narrow-support negative control,Ideal tau revelation (non-deployable),3.5,30,0,0,0,0,0,0,1,0

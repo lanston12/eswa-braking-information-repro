@@ -1,0 +1,302 @@
+[
+  {
+    "path": "synthetic/code/analyze_final.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/analyze_final.py",
+    "sha256": "f64c782d11847f439acae1eef6bfb4553a3d1d8f05e8ed9ed11d3b5515a98f45"
+  },
+  {
+    "path": "synthetic/code/base_model.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/base_model.py",
+    "sha256": "8369b616fe822cbbe62c63d5d32d0841623c4f82c2397eeed945daaff100490d"
+  },
+  {
+    "path": "synthetic/code/certify_fixed_edge.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/certify_fixed_edge.py",
+    "sha256": "3adf5c8901142a7b6df473e33ec44984a5435a6e1a677e33d5c4a297484b6ea7"
+  },
+  {
+    "path": "synthetic/code/continuous.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/continuous.py",
+    "sha256": "72d116b75112749fdff6b814b1276bb68358aff2afd618fa32bc08c319b77c69"
+  },
+  {
+    "path": "synthetic/code/continuous_exact.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/continuous_exact.py",
+    "sha256": "502140a4eaf8c861d2a19c9bca0bbf99f689fb787eb6e4b2f26760a9acb12335"
+  },
+  {
+    "path": "synthetic/code/coverage.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/coverage.py",
+    "sha256": "9461c59c99286e13aa647664b07686936df394ec2d108716f277642f4156c989"
+  },
+  {
+    "path": "synthetic/code/final_model.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/final_model.py",
+    "sha256": "a611d9ae9fa3fd7e4bda81f3d150b1d2f21c673471dfd82841cd76bb791409f5"
+  },
+  {
+    "path": "synthetic/code/independent_checks.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/independent_checks.py",
+    "sha256": "a05f7de8b383107d0c0c122fb388cd1254daa113560d6b3df53ab6b33dd0db23"
+  },
+  {
+    "path": "synthetic/code/run_targeted.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/code/run_targeted.py",
+    "sha256": "9004607012ffaf68b7b3d7a0a13c1074d8dcebfa9f119ec728be1d8d176eec06"
+  },
+  {
+    "path": "synthetic/data/final_design.json",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/data/final_design.json",
+    "sha256": "13871d5641aa7965e522e932c3ce5e0e382cabfa8bf80eb67cc68e4da5fba7ab"
+  },
+  {
+    "path": "synthetic/data/final_design.sha256",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/data/final_design.sha256",
+    "sha256": "137d08f867dd2f728f00c979996e879d7b79410aebd5e3a195e1b85a9a4722ae"
+  },
+  {
+    "path": "synthetic/data/narrow_response_control.json",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/data/narrow_response_control.json",
+    "sha256": "4f704734474bc8dd4e5b7c28bd0d8846274b920a25be2befdbf7a4e4d5505b1a"
+  },
+  {
+    "path": "synthetic/data/narrow_response_control.sha256",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/data/narrow_response_control.sha256",
+    "sha256": "7a91d75120b1498e4f3ba6bde5867c84194143bf529eadde39c06b42b301da41"
+  },
+  {
+    "path": "synthetic/ENVIRONMENT.json",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/ENVIRONMENT.json",
+    "sha256": "595f36fb02c7ae95bd8debec487623d0649f651309a091964af8b04e9aa07ff1"
+  },
+  {
+    "path": "synthetic/legacy/eswa_reviewer_reproduction/source/campaign/benchmark.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/legacy/eswa_reviewer_reproduction/source/campaign/benchmark.py",
+    "sha256": "4d5e285abceeb3c79eb9b3f0f6e66fe4cda79a25f9e5245848876733d3a9d91f"
+  },
+  {
+    "path": "synthetic/legacy/eswa_reviewer_reproduction/source/campaign/independent_shape_oracle.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/legacy/eswa_reviewer_reproduction/source/campaign/independent_shape_oracle.py",
+    "sha256": "32b698c957558f7f8c90d48d4949b2b316a05855ebd25184b5d931c777813562"
+  },
+  {
+    "path": "synthetic/legacy/eswa_reviewer_reproduction/source/campaign/stress_tests.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/legacy/eswa_reviewer_reproduction/source/campaign/stress_tests.py",
+    "sha256": "459ca6fda42c7a09a112ffc0e65db247ab33e8fdf8d353723e124944c9b7cbee"
+  },
+  {
+    "path": "synthetic/legacy/eswa_reviewer_reproduction/source/theory_ordering/envelopes.py",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/legacy/eswa_reviewer_reproduction/source/theory_ordering/envelopes.py",
+    "sha256": "c740ca3efaa86c0b36597fc79ce848d77f6265f71941d578337081991139a66c"
+  },
+  {
+    "path": "synthetic/requirements.txt",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/requirements.txt",
+    "sha256": "ec8170882a55b5292f706f91e28719dbf858f25b5d0d552c1b1b64627e6016f1"
+  },
+  {
+    "path": "synthetic/results/break_even.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/break_even.csv",
+    "sha256": "0e4756c14f61e4720f8b089e5f142d6da06a599ba020aefed06e21c283a73f39"
+  },
+  {
+    "path": "synthetic/results/continuous_bounds.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/continuous_bounds.csv",
+    "sha256": "2d5821834783c7add151b261af4d6b7e9960c2b5271a4169ffef5f0244161bf6"
+  },
+  {
+    "path": "synthetic/results/cost_matched.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/cost_matched.csv",
+    "sha256": "9fed963b6b5884463ee60960f655b24032b18f1e43284b666e25044791067029"
+  },
+  {
+    "path": "synthetic/results/cost_regions.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/cost_regions.csv",
+    "sha256": "728bc126b14c0e3a76509c2cf4179a949fa3f3218b8a51a767a1f0ebf855b020"
+  },
+  {
+    "path": "synthetic/results/coverage_summary.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/coverage_summary.csv",
+    "sha256": "8235c8efbea5c15582e176473d42cc0099e5ad66f1884adf67e67050af40834e"
+  },
+  {
+    "path": "synthetic/results/direct_witness.json",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/direct_witness.json",
+    "sha256": "406f159f0d49e36e5f454aa85fb8c307207394c619bfcd53626e4f13fa957fde"
+  },
+  {
+    "path": "synthetic/results/frozen_R2_policy_rows.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/frozen_R2_policy_rows.csv",
+    "sha256": "5dbb581c58e981606eb8b768995bdb71fd152ccf8835295fdeb94e21342089eb"
+  },
+  {
+    "path": "synthetic/results/summary.json",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/summary.json",
+    "sha256": "6c50defb3f7a0cb5cc910e105cd796150c9e7bc45bff53fd299296e28116b5bc"
+  },
+  {
+    "path": "synthetic/results/targeted_costs.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/targeted_costs.csv",
+    "sha256": "ce9adf3bb9b8d19b47c302a4facbab90a2e7a8a4f983dba91965dd1e94b573b6"
+  },
+  {
+    "path": "synthetic/results/targeted_rows.csv",
+    "source": "ESWA_SYNTHETIC_REPRODUCIBILITY.zip!/ESWA_FINAL/results/targeted_rows.csv",
+    "sha256": "61485259c6da4d61735f1bb597e8381f9e5416cf35ca2b6725f19a248cb0f5f4"
+  },
+  {
+    "path": "v4/ESWA_Illustrative_Figures_OneClick_V4.m",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/ESWA_Illustrative_Figures_OneClick_V4.m",
+    "sha256": "76e1f20525474754da50f2f63cf3e08bb029793a82344c0014052f7fca726885"
+  },
+  {
+    "path": "v4/V4_Fig2_D3plus_phase_sensor_grid(2).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig2_D3plus_phase_sensor_grid(2).csv",
+    "sha256": "be6a9e1a7722b62f161df642d7fa0a4a05dd772d7affe8cadc8a4e55de2f051d"
+  },
+  {
+    "path": "v4/V4_Fig3_candidate_value_audit.csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_candidate_value_audit.csv",
+    "sha256": "4cd5c05cf604fcb09e61bfac4f57f52908cdac482e5401b7ad42dbba3c243e53"
+  },
+  {
+    "path": "v4/V4_Fig3_order_change_summary(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_order_change_summary(1).csv",
+    "sha256": "1abdb540af8133a700b2e6ddabd4e0b8f253522e721e878c9e001a1919b8a85b"
+  },
+  {
+    "path": "v4/V4_Fig3_paired_advantage(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_paired_advantage(1).csv",
+    "sha256": "6023fec10d99928d7a7e663185b52bd35c3e17bd821eb15061f1e519bf1df347"
+  },
+  {
+    "path": "v4/V4_Fig3_per_edge_clearance.csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_per_edge_clearance.csv",
+    "sha256": "2ade2c09bd1cdbf57886df92d446c5fed40fe60146b0061ca469f22f8fafc1e7"
+  },
+  {
+    "path": "v4/V4_Fig3_policy_replications(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_policy_replications(1).csv",
+    "sha256": "4819f0edaf36fefe32df1b7b1e441b90befacbbd65aff6feb5cdc1c3702dc307"
+  },
+  {
+    "path": "v4/V4_Fig3_policy_summary(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_policy_summary(1).csv",
+    "sha256": "441e7a98f52f724ee999b66485decb8a04ea3d8712d98f2d5bc15d3a31bcb0d7"
+  },
+  {
+    "path": "v4/V4_Fig3_query_selection_frequency(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig3_query_selection_frequency(1).csv",
+    "sha256": "428c3ccd69de6d84727c443c279555909a1aacc5fa4877191d9238591b4aa39b"
+  },
+  {
+    "path": "v4/V4_Fig4_cost_frontier_replications(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig4_cost_frontier_replications(1).csv",
+    "sha256": "e8d7d33b941c4c22eaa6f19b3b9ccfafb473e48078a0bec3fee0e343b164cd91"
+  },
+  {
+    "path": "v4/V4_Fig4_cost_frontier_summary(1).csv",
+    "source": "ESWA_V4_EVIDENCE.zip!/V4_evidence/V4_Fig4_cost_frontier_summary(1).csv",
+    "sha256": "a8ec5432d0f008d542300166a8f66091df4a43e8948ed9d3cc78240e09c4acca"
+  },
+  {
+    "path": "v5_3/V5_3_policy_replications.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_policy_replications.csv",
+    "sha256": "09e2752c50bcc15a49b19b09309b0427066c904320896f073870f77d054e9f5b"
+  },
+  {
+    "path": "v5_3/ESWA_V5_3_TauGrid_Convergence.m",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/ESWA_V5_3_TauGrid_Convergence.m",
+    "sha256": "003b8dbce54ee9ec9ea19b0e3df86045594c081141c68cb42b719f855389f037"
+  },
+  {
+    "path": "v5_3/V5_3_STATIC_VALIDATION_REPORT.md",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_STATIC_VALIDATION_REPORT.md",
+    "sha256": "7af3d460b5f342354ed53bce0b811efe78c02ba17dfdd6b87af6bc3d54a88df7"
+  },
+  {
+    "path": "v5_3/ENDPOINT_MONOTONICITY_NOTE.md",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/ENDPOINT_MONOTONICITY_NOTE.md",
+    "sha256": "6a8f0fd0a5067a93b3598069dc3282e29bbe8adc371b5c18fc15d5f963e8a45f"
+  },
+  {
+    "path": "v5_3/V5_3_time_grid_convergence.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_time_grid_convergence.csv",
+    "sha256": "9b7751101ead52adbca5d4fb47119060f4be8b5040998b1987c9dd3cffa042fd"
+  },
+  {
+    "path": "v5_3/V5_3_action_replications.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_action_replications.csv",
+    "sha256": "1872aacc747e47f178f8faf08d47508145c13765e8e986c9d4f3573b1abe53c7"
+  },
+  {
+    "path": "v5_3/V5_3_factorised_numerical_error.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_factorised_numerical_error.csv",
+    "sha256": "ae5b57d7a97f061d30eb0dfc89c24640bdd4b772f529176bb76d62e262b8e24a"
+  },
+  {
+    "path": "v5_3/V5_3_tau_grid_convergence.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_tau_grid_convergence.csv",
+    "sha256": "9ea41a733b436ae3dbf2cd5b23439f892a671bb30f0594269be863ff5c085dd1"
+  },
+  {
+    "path": "v5_3/V5_3_action_frequency.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_action_frequency.csv",
+    "sha256": "572a4ffe528723c52e09afd70fd2c2eb3d29d000b56af14e3be8d33c994baa40"
+  },
+  {
+    "path": "v5_3/V5_3_tau_grid_summary.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_tau_grid_summary.csv",
+    "sha256": "e0f0b4369d07dd83e008ba9dd4f9a5d5d89ddeef31967d3c6a8dbf4201338076"
+  },
+  {
+    "path": "v5_3/README_V5_3_EVIDENCE.md",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/README_V5_3_EVIDENCE.md",
+    "sha256": "3e7b74da440e0c203bbec15507f8fe37c9bde9b890e72d4e4843fa8e1a3980c5"
+  },
+  {
+    "path": "v5_3/V5_3_policy_convergence.csv",
+    "source": "ESWA_V5_3_EVIDENCE.zip!/V5_3_EVIDENCE/V5_3_policy_convergence.csv",
+    "sha256": "9b73b9cba2b960cf9d322d4406bc76c44ed285f0b51cdaf481086005ddae4951"
+  },
+  {
+    "path": "v5_3/DOCUMENTATION_CLARIFICATIONS.md",
+    "source": "Author-approved clarification; frozen source unchanged",
+    "sha256": "7586f703d6b24c5ce389d0941b8b310aec29d4a4083c23f973d4b84fdb710c4f"
+  },
+  {
+    "path": "empirical/ESWA_Empirical_Evidence_Enhancement_OneClick.m",
+    "source": "2026-11-19 revision: exact frozen CSV input and vector export",
+    "sha256": "35012b51d655140a8eb10dcaf529d15cfe18652804822c206562f5f80ed9c5ea"
+  },
+  {
+    "path": "empirical/frozen_inputs/pressure_threshold_holdout.csv",
+    "source": "ESWA_EMPIRICAL_REPRODUCIBILITY.zip; byte-preserved derived CSV",
+    "sha256": "117e95edf266f802963ad128d625db6019de23a9ac2d13af9048ee0fd31f63d5"
+  },
+  {
+    "path": "empirical/frozen_inputs/pressure_threshold_summary.csv",
+    "source": "ESWA_EMPIRICAL_REPRODUCIBILITY.zip; byte-preserved derived CSV",
+    "sha256": "81f09931136aec0658a2d2b2544593b87a68eb722d8130ce113ee2bc5b0ee5da"
+  },
+  {
+    "path": "empirical/frozen_inputs/t90_profile_summary.csv",
+    "source": "ESWA_EMPIRICAL_REPRODUCIBILITY.zip; byte-preserved derived CSV",
+    "sha256": "d18de58a26daa098972fd41fde66e21694f2bf360838f79874e365fb009e5947"
+  },
+  {
+    "path": "empirical/frozen_inputs/cambridge_extended_fits.csv",
+    "source": "ESWA_EMPIRICAL_REPRODUCIBILITY.zip; byte-preserved derived CSV",
+    "sha256": "d15a3a0642210f1aed7c84b5cfd2fc01eccc9f2e097a88f7ae2b235d424a1189"
+  },
+  {
+    "path": "explanatory_figures/Figure_Diagnostic_Workflow.tex",
+    "source": "2026-11-19 explanatory vector source",
+    "sha256": "276061d41e64df4d46a6438a3dda759d6140dc56ec115f9f3cc8e25716c0efd9"
+  },
+  {
+    "path": "explanatory_figures/Figure_Physical_Ambiguity.tex",
+    "source": "2026-11-19 explanatory vector source",
+    "sha256": "3b281ab7149f3400ec7ccef5777bae7e7ffcfaa733b3d03efb6b8ca9d515e70a"
+  }
+]

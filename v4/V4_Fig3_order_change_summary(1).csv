@@ -1,0 +1,4 @@
+scenario,replications_with_query,mean_order_change_probability,sd_between_replications,t95_lower,t95_upper
+Constructed overlapping-response case,30,0,0,0,0
+composition of fitted anchors from one truck,0,NaN,NaN,NaN,NaN
+Narrow-support negative control,0,NaN,NaN,NaN,NaN

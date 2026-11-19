@@ -1,0 +1,181 @@
+scenario,replication,method,selected_action,query_executed,continuous_reference_action,action_agreement
+Overlap,1,Continuous tau / root time,1,1,1,1
+Overlap,1,N_tau=21 / root time,1,1,1,1
+Overlap,1,N_tau=51 / root time,1,1,1,1
+Overlap,1,N_tau=101 / root time,1,1,1,1
+Overlap,1,N_tau=201 / root time,1,1,1,1
+Overlap,1,N_tau=401 / root time,1,1,1,1
+Overlap,2,Continuous tau / root time,2,1,2,1
+Overlap,2,N_tau=21 / root time,2,1,2,1
+Overlap,2,N_tau=51 / root time,2,1,2,1
+Overlap,2,N_tau=101 / root time,2,1,2,1
+Overlap,2,N_tau=201 / root time,2,1,2,1
+Overlap,2,N_tau=401 / root time,2,1,2,1
+Overlap,3,Continuous tau / root time,1,1,1,1
+Overlap,3,N_tau=21 / root time,1,1,1,1
+Overlap,3,N_tau=51 / root time,1,1,1,1
+Overlap,3,N_tau=101 / root time,1,1,1,1
+Overlap,3,N_tau=201 / root time,1,1,1,1
+Overlap,3,N_tau=401 / root time,1,1,1,1
+Overlap,4,Continuous tau / root time,1,1,1,1
+Overlap,4,N_tau=21 / root time,1,1,1,1
+Overlap,4,N_tau=51 / root time,1,1,1,1
+Overlap,4,N_tau=101 / root time,1,1,1,1
+Overlap,4,N_tau=201 / root time,1,1,1,1
+Overlap,4,N_tau=401 / root time,1,1,1,1
+Overlap,5,Continuous tau / root time,2,1,2,1
+Overlap,5,N_tau=21 / root time,2,1,2,1
+Overlap,5,N_tau=51 / root time,2,1,2,1
+Overlap,5,N_tau=101 / root time,2,1,2,1
+Overlap,5,N_tau=201 / root time,2,1,2,1
+Overlap,5,N_tau=401 / root time,2,1,2,1
+Overlap,6,Continuous tau / root time,1,1,1,1
+Overlap,6,N_tau=21 / root time,1,1,1,1
+Overlap,6,N_tau=51 / root time,1,1,1,1
+Overlap,6,N_tau=101 / root time,1,1,1,1
+Overlap,6,N_tau=201 / root time,1,1,1,1
+Overlap,6,N_tau=401 / root time,1,1,1,1
+Overlap,7,Continuous tau / root time,1,1,1,1
+Overlap,7,N_tau=21 / root time,1,1,1,1
+Overlap,7,N_tau=51 / root time,1,1,1,1
+Overlap,7,N_tau=101 / root time,1,1,1,1
+Overlap,7,N_tau=201 / root time,1,1,1,1
+Overlap,7,N_tau=401 / root time,1,1,1,1
+Overlap,8,Continuous tau / root time,1,1,1,1
+Overlap,8,N_tau=21 / root time,2,1,1,0
+Overlap,8,N_tau=51 / root time,1,1,1,1
+Overlap,8,N_tau=101 / root time,1,1,1,1
+Overlap,8,N_tau=201 / root time,1,1,1,1
+Overlap,8,N_tau=401 / root time,1,1,1,1
+Overlap,9,Continuous tau / root time,1,1,1,1
+Overlap,9,N_tau=21 / root time,1,1,1,1
+Overlap,9,N_tau=51 / root time,1,1,1,1
+Overlap,9,N_tau=101 / root time,1,1,1,1
+Overlap,9,N_tau=201 / root time,1,1,1,1
+Overlap,9,N_tau=401 / root time,1,1,1,1
+Overlap,10,Continuous tau / root time,1,1,1,1
+Overlap,10,N_tau=21 / root time,1,1,1,1
+Overlap,10,N_tau=51 / root time,1,1,1,1
+Overlap,10,N_tau=101 / root time,1,1,1,1
+Overlap,10,N_tau=201 / root time,1,1,1,1
+Overlap,10,N_tau=401 / root time,1,1,1,1
+Fitted proxy,1,Continuous tau / root time,0,0,0,1
+Fitted proxy,1,N_tau=21 / root time,0,0,0,1
+Fitted proxy,1,N_tau=51 / root time,0,0,0,1
+Fitted proxy,1,N_tau=101 / root time,0,0,0,1
+Fitted proxy,1,N_tau=201 / root time,0,0,0,1
+Fitted proxy,1,N_tau=401 / root time,0,0,0,1
+Fitted proxy,2,Continuous tau / root time,0,0,0,1
+Fitted proxy,2,N_tau=21 / root time,0,0,0,1
+Fitted proxy,2,N_tau=51 / root time,0,0,0,1
+Fitted proxy,2,N_tau=101 / root time,0,0,0,1
+Fitted proxy,2,N_tau=201 / root time,0,0,0,1
+Fitted proxy,2,N_tau=401 / root time,0,0,0,1
+Fitted proxy,3,Continuous tau / root time,0,0,0,1
+Fitted proxy,3,N_tau=21 / root time,0,0,0,1
+Fitted proxy,3,N_tau=51 / root time,0,0,0,1
+Fitted proxy,3,N_tau=101 / root time,0,0,0,1
+Fitted proxy,3,N_tau=201 / root time,0,0,0,1
+Fitted proxy,3,N_tau=401 / root time,0,0,0,1
+Fitted proxy,4,Continuous tau / root time,0,0,0,1
+Fitted proxy,4,N_tau=21 / root time,0,0,0,1
+Fitted proxy,4,N_tau=51 / root time,0,0,0,1
+Fitted proxy,4,N_tau=101 / root time,0,0,0,1
+Fitted proxy,4,N_tau=201 / root time,0,0,0,1
+Fitted proxy,4,N_tau=401 / root time,0,0,0,1
+Fitted proxy,5,Continuous tau / root time,0,0,0,1
+Fitted proxy,5,N_tau=21 / root time,0,0,0,1
+Fitted proxy,5,N_tau=51 / root time,0,0,0,1
+Fitted proxy,5,N_tau=101 / root time,0,0,0,1
+Fitted proxy,5,N_tau=201 / root time,0,0,0,1
+Fitted proxy,5,N_tau=401 / root time,0,0,0,1
+Fitted proxy,6,Continuous tau / root time,0,0,0,1
+Fitted proxy,6,N_tau=21 / root time,0,0,0,1
+Fitted proxy,6,N_tau=51 / root time,0,0,0,1
+Fitted proxy,6,N_tau=101 / root time,0,0,0,1
+Fitted proxy,6,N_tau=201 / root time,0,0,0,1
+Fitted proxy,6,N_tau=401 / root time,0,0,0,1
+Fitted proxy,7,Continuous tau / root time,0,0,0,1
+Fitted proxy,7,N_tau=21 / root time,0,0,0,1
+Fitted proxy,7,N_tau=51 / root time,0,0,0,1
+Fitted proxy,7,N_tau=101 / root time,0,0,0,1
+Fitted proxy,7,N_tau=201 / root time,0,0,0,1
+Fitted proxy,7,N_tau=401 / root time,0,0,0,1
+Fitted proxy,8,Continuous tau / root time,0,0,0,1
+Fitted proxy,8,N_tau=21 / root time,0,0,0,1
+Fitted proxy,8,N_tau=51 / root time,0,0,0,1
+Fitted proxy,8,N_tau=101 / root time,0,0,0,1
+Fitted proxy,8,N_tau=201 / root time,0,0,0,1
+Fitted proxy,8,N_tau=401 / root time,0,0,0,1
+Fitted proxy,9,Continuous tau / root time,0,0,0,1
+Fitted proxy,9,N_tau=21 / root time,0,0,0,1
+Fitted proxy,9,N_tau=51 / root time,0,0,0,1
+Fitted proxy,9,N_tau=101 / root time,0,0,0,1
+Fitted proxy,9,N_tau=201 / root time,0,0,0,1
+Fitted proxy,9,N_tau=401 / root time,0,0,0,1
+Fitted proxy,10,Continuous tau / root time,0,0,0,1
+Fitted proxy,10,N_tau=21 / root time,0,0,0,1
+Fitted proxy,10,N_tau=51 / root time,0,0,0,1
+Fitted proxy,10,N_tau=101 / root time,0,0,0,1
+Fitted proxy,10,N_tau=201 / root time,0,0,0,1
+Fitted proxy,10,N_tau=401 / root time,0,0,0,1
+Narrow,1,Continuous tau / root time,0,0,0,1
+Narrow,1,N_tau=21 / root time,0,0,0,1
+Narrow,1,N_tau=51 / root time,0,0,0,1
+Narrow,1,N_tau=101 / root time,0,0,0,1
+Narrow,1,N_tau=201 / root time,0,0,0,1
+Narrow,1,N_tau=401 / root time,0,0,0,1
+Narrow,2,Continuous tau / root time,0,0,0,1
+Narrow,2,N_tau=21 / root time,0,0,0,1
+Narrow,2,N_tau=51 / root time,0,0,0,1
+Narrow,2,N_tau=101 / root time,0,0,0,1
+Narrow,2,N_tau=201 / root time,0,0,0,1
+Narrow,2,N_tau=401 / root time,0,0,0,1
+Narrow,3,Continuous tau / root time,0,0,0,1
+Narrow,3,N_tau=21 / root time,0,0,0,1
+Narrow,3,N_tau=51 / root time,0,0,0,1
+Narrow,3,N_tau=101 / root time,0,0,0,1
+Narrow,3,N_tau=201 / root time,0,0,0,1
+Narrow,3,N_tau=401 / root time,0,0,0,1
+Narrow,4,Continuous tau / root time,0,0,0,1
+Narrow,4,N_tau=21 / root time,0,0,0,1
+Narrow,4,N_tau=51 / root time,0,0,0,1
+Narrow,4,N_tau=101 / root time,0,0,0,1
+Narrow,4,N_tau=201 / root time,0,0,0,1
+Narrow,4,N_tau=401 / root time,0,0,0,1
+Narrow,5,Continuous tau / root time,0,0,0,1
+Narrow,5,N_tau=21 / root time,0,0,0,1
+Narrow,5,N_tau=51 / root time,0,0,0,1
+Narrow,5,N_tau=101 / root time,0,0,0,1
+Narrow,5,N_tau=201 / root time,0,0,0,1
+Narrow,5,N_tau=401 / root time,0,0,0,1
+Narrow,6,Continuous tau / root time,0,0,0,1
+Narrow,6,N_tau=21 / root time,0,0,0,1
+Narrow,6,N_tau=51 / root time,0,0,0,1
+Narrow,6,N_tau=101 / root time,0,0,0,1
+Narrow,6,N_tau=201 / root time,0,0,0,1
+Narrow,6,N_tau=401 / root time,0,0,0,1
+Narrow,7,Continuous tau / root time,0,0,0,1
+Narrow,7,N_tau=21 / root time,0,0,0,1
+Narrow,7,N_tau=51 / root time,0,0,0,1
+Narrow,7,N_tau=101 / root time,0,0,0,1
+Narrow,7,N_tau=201 / root time,0,0,0,1
+Narrow,7,N_tau=401 / root time,0,0,0,1
+Narrow,8,Continuous tau / root time,0,0,0,1
+Narrow,8,N_tau=21 / root time,0,0,0,1
+Narrow,8,N_tau=51 / root time,0,0,0,1
+Narrow,8,N_tau=101 / root time,0,0,0,1
+Narrow,8,N_tau=201 / root time,0,0,0,1
+Narrow,8,N_tau=401 / root time,0,0,0,1
+Narrow,9,Continuous tau / root time,0,0,0,1
+Narrow,9,N_tau=21 / root time,0,0,0,1
+Narrow,9,N_tau=51 / root time,0,0,0,1
+Narrow,9,N_tau=101 / root time,0,0,0,1
+Narrow,9,N_tau=201 / root time,0,0,0,1
+Narrow,9,N_tau=401 / root time,0,0,0,1
+Narrow,10,Continuous tau / root time,0,0,0,1
+Narrow,10,N_tau=21 / root time,0,0,0,1
+Narrow,10,N_tau=51 / root time,0,0,0,1
+Narrow,10,N_tau=101 / root time,0,0,0,1
+Narrow,10,N_tau=201 / root time,0,0,0,1
+Narrow,10,N_tau=401 / root time,0,0,0,1

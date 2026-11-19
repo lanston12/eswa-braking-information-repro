@@ -1,0 +1,5773 @@
+{
+  "groups": {
+    "A_equal_t90": {
+      "ideal": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 44.52838824536004,
+            "min": 41.13729308162265,
+            "max": 50.40642403010166,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 45.26996374717754,
+            "min": 41.83626647985426,
+            "max": 51.23604326664704,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666666,
+            "min": 0.6666666666666666,
+            "max": 0.6666666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.625,
+            "min": 0.5,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.2117866431229,
+            "min": 14.081605378674062,
+            "max": 19.87417700867079,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 38.09652435849602,
+            "min": 34.80021668169225,
+            "max": 43.10969548915752,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.84173679683033,
+            "min": 35.50385811425154,
+            "max": 43.96894398415095,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4583333333333333,
+            "min": 0.4583333333333333,
+            "max": 0.4583333333333333,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.63671875,
+            "min": 0.625,
+            "max": 0.65625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 22.640013593470115,
+            "min": 19.56510066245591,
+            "max": 27.141276291166882,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 44.52838824536004,
+            "min": 41.13729308162265,
+            "max": 50.40642403010166,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 45.26996374717754,
+            "min": 41.83626647985426,
+            "max": 51.23604326664704,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666666,
+            "min": 0.6666666666666666,
+            "max": 0.6666666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.625,
+            "min": 0.5,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.2117866431229,
+            "min": 14.081605378674062,
+            "max": 19.87417700867079,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.37280555881068,
+            "min": 33.9969540024192,
+            "max": 42.2492039193112,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.119504328737136,
+            "min": 34.7036283721878,
+            "max": 43.10845241430463,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.64453125,
+            "min": 0.625,
+            "max": 0.65625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 23.362246061563305,
+            "min": 20.169308379912984,
+            "max": 28.0017678610132,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.37280555881068,
+            "min": 33.996954002419194,
+            "max": 42.2492039193112,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.119504328737136,
+            "min": 34.703628372187794,
+            "max": 43.10845241430463,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.64453125,
+            "min": 0.625,
+            "max": 0.65625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 23.362246061563305,
+            "min": 20.169308379912984,
+            "max": 28.0017678610132,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.37280555881068,
+            "min": 33.9969540024192,
+            "max": 42.2492039193112,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.119504328737136,
+            "min": 34.7036283721878,
+            "max": 43.10845241430463,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.64453125,
+            "min": 0.625,
+            "max": 0.65625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 23.362246061563305,
+            "min": 20.16930837991299,
+            "max": 28.0017678610132,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 7.150459418440404,
+          "min": 6.087703001238921,
+          "max": 8.127590852342408,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 7.150459418440406,
+          "min": 6.087703001238921,
+          "max": 8.127590852342408,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": -7.105427357601002e-15,
+          "max": 7.105427357601002e-15,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 1.7763568394002505e-15,
+          "min": 0.0,
+          "max": 7.105427357601002e-15,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 7.150459418440406,
+          "min": 6.087703001238928,
+          "max": 8.127590852342408,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      },
+      "bounded": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 44.52838824535972,
+            "min": 41.13729308162236,
+            "max": 50.406424030101306,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 45.269963747177215,
+            "min": 41.83626647985396,
+            "max": 51.236043266646675,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030034,
+            "min": 0.5591787185852822,
+            "max": 0.711102202753177,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.666666666666662,
+            "min": 0.666666666666662,
+            "max": 0.666666666666662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6249999999999956,
+            "min": 0.49999999999999645,
+            "max": 0.7499999999999947,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.211786643123226,
+            "min": 14.081605378674361,
+            "max": 19.874177008671154,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999964,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 38.09652435849578,
+            "min": 34.80021668169202,
+            "max": 43.10969548915726,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.84173679683008,
+            "min": 35.503858114251315,
+            "max": 43.96894398415068,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030035,
+            "min": 0.5591787185852823,
+            "max": 0.7111022027531771,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4583333333333304,
+            "min": 0.4583333333333303,
+            "max": 0.4583333333333305,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6367187499999959,
+            "min": 0.624999999999996,
+            "max": 0.6562499999999958,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 22.640013593470364,
+            "min": 19.56510066245616,
+            "max": 27.141276291167152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999967,
+            "min": 1.9999999999999964,
+            "max": 1.999999999999997,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 44.5283882453598,
+            "min": 41.13729308162243,
+            "max": 50.40642403010139,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 45.26996374717729,
+            "min": 41.83626647985403,
+            "max": 51.23604326664676,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030036,
+            "min": 0.5591787185852826,
+            "max": 0.7111022027531773,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.666666666666663,
+            "min": 0.666666666666663,
+            "max": 0.6666666666666631,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6249999999999967,
+            "min": 0.49999999999999734,
+            "max": 0.749999999999996,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.211786643123148,
+            "min": 14.08160537867429,
+            "max": 19.87417700867107,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999973,
+            "min": 1.9999999999999973,
+            "max": 1.9999999999999973,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 38.205983851084,
+            "min": 34.84230279435329,
+            "max": 43.140315958042486,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.955987817519166,
+            "min": 35.53715359420037,
+            "max": 43.9995644530359,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030028,
+            "min": 0.5591787185852817,
+            "max": 0.7111022027531765,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4410479518761455,
+            "min": 0.4392574483761441,
+            "max": 0.44553990725825776,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6412101165445586,
+            "min": 0.5797126674080838,
+            "max": 0.6806100673696213,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 22.525762572781275,
+            "min": 19.288317158893598,
+            "max": 27.110655822281927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999947,
+            "min": 1.9999999999999942,
+            "max": 1.999999999999995,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.37280555881,
+            "min": 33.99695400241858,
+            "max": 42.24920391931038,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.11950432873645,
+            "min": 34.70362837218718,
+            "max": 43.1084524143038,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030016,
+            "min": 0.5591787185852808,
+            "max": 0.7111022027531746,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.41666666666665897,
+            "min": 0.41666666666665836,
+            "max": 0.41666666666665936,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6445312499999881,
+            "min": 0.6249999999999876,
+            "max": 0.6562499999999883,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 23.362246061563994,
+            "min": 20.169308379913623,
+            "max": 28.00176786101403,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999907,
+            "min": 1.9999999999999898,
+            "max": 1.9999999999999911,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.37280555881068,
+            "min": 33.9969540024192,
+            "max": 42.2492039193112,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.119504328737136,
+            "min": 34.7036283721878,
+            "max": 43.10845241430463,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.6148175039030044,
+            "min": 0.5591787185852832,
+            "max": 0.7111022027531783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.64453125,
+            "min": 0.625,
+            "max": 0.65625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 23.362246061563305,
+            "min": 20.16930837991299,
+            "max": 28.0017678610132,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 6.313975929658129,
+          "min": 5.206711780219308,
+          "max": 7.2479937849677185,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 7.1504594184407715,
+          "min": 6.087703001239262,
+          "max": 8.127590852342877,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": -7.815970093361102e-14,
+          "min": -8.526512829121202e-14,
+          "max": -7.105427357601002e-14,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": -6.910028105266974e-13,
+          "min": -8.313350008393172e-13,
+          "max": -6.181721801112872e-13,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.8364834887820294,
+          "min": 0.7403054733648844,
+          "max": 0.8911120387312721,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 7.150459418440159,
+          "min": 6.087703001238701,
+          "max": 8.12759085234213,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      }
+    },
+    "B_independent": {
+      "ideal": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 51.54600305801602,
+            "min": 48.46465363232703,
+            "max": 57.44776365596384,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 52.365157908126925,
+            "min": 49.29111517522551,
+            "max": 58.27818651888799,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666666,
+            "min": 0.6666666666666666,
+            "max": 0.6666666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.375,
+            "min": 0.25,
+            "max": 0.5,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 18.19338961819345,
+            "min": 13.791192200987666,
+            "max": 23.78032641794549,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.50534279536845,
+            "min": 37.04569381929302,
+            "max": 44.74171966023881,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.47514187940246,
+            "min": 37.865752567060866,
+            "max": 45.955414613743336,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4218749999999999,
+            "min": 0.4166666666666666,
+            "max": 0.4375,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6328125,
+            "min": 0.390625,
+            "max": 0.765625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.083405646917917,
+            "min": 27.46672858290833,
+            "max": 34.62486298594345,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.08710352185185,
+            "min": 37.04569381929302,
+            "max": 43.06876256617241,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.03893672663991,
+            "min": 37.865752567060866,
+            "max": 44.210594002693114,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6015625,
+            "min": 0.390625,
+            "max": 0.765625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.519610799680464,
+            "min": 27.46672858290833,
+            "max": 34.62486298594344,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.08710352185185,
+            "min": 37.04569381929302,
+            "max": 43.06876256617241,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.03893672663991,
+            "min": 37.865752567060866,
+            "max": 44.210594002693114,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6015625,
+            "min": 0.390625,
+            "max": 0.765625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.519610799680464,
+            "min": 27.46672858290833,
+            "max": 34.62486298594344,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.087103521851844,
+            "min": 37.04569381929302,
+            "max": 43.06876256617241,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.0389367266399,
+            "min": 37.865752567060866,
+            "max": 44.210594002693114,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6015625,
+            "min": 0.390625,
+            "max": 0.765625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.51961079968047,
+            "min": 27.46672858290833,
+            "max": 34.62486298594345,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.08710352185185,
+            "min": 37.04569381929302,
+            "max": 43.06876256617241,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.03893672663991,
+            "min": 37.865752567060866,
+            "max": 44.210594002693114,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6015625,
+            "min": 0.390625,
+            "max": 0.765625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.519610799680464,
+            "min": 27.46672858290833,
+            "max": 34.62486298594344,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 12.326221181487023,
+          "min": 10.717219259834586,
+          "max": 14.067592516194878,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 12.326221181487018,
+          "min": 10.717219259834579,
+          "max": 14.067592516194878,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": -5.329070518200751e-15,
+          "min": -1.4210854715202004e-14,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 1,
+        "truck_count": 12
+      },
+      "bounded": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 51.54600305801566,
+            "min": 48.46465363232668,
+            "max": 57.44776365596343,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 52.36515790812656,
+            "min": 49.29111517522516,
+            "max": 58.27818651888758,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632025,
+            "min": 0.6533248114996908,
+            "max": 0.7665441811607534,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.666666666666662,
+            "min": 0.666666666666662,
+            "max": 0.666666666666662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.37499999999999734,
+            "min": 0.24999999999999822,
+            "max": 0.49999999999999645,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 18.193389618193816,
+            "min": 13.791192200988021,
+            "max": 23.780326417945844,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999964,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 41.27143136418985,
+            "min": 38.94637229731168,
+            "max": 45.46743120499575,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 42.16042477520721,
+            "min": 39.74601464472016,
+            "max": 46.257929891817774,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632025,
+            "min": 0.6533248114996908,
+            "max": 0.7665441811607532,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4501855797076177,
+            "min": 0.4374999999999969,
+            "max": 0.4606779435725062,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.5195312499999962,
+            "min": 0.09374999999999947,
+            "max": 0.9999999999999925,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 28.398122751113164,
+            "min": 25.246094985597615,
+            "max": 32.36344128934831,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999956,
+            "max": 1.9999999999999973,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 40.202671321750984,
+            "min": 38.39555747264893,
+            "max": 44.45360813735623,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 41.20246145678081,
+            "min": 39.262148954287255,
+            "max": 45.81103012482839,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632025,
+            "min": 0.6533248114996908,
+            "max": 0.7665441811607531,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.45101566930982234,
+            "min": 0.44261243948115175,
+            "max": 0.461916169100827,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6901947774748896,
+            "min": 0.3906249999999971,
+            "max": 0.9999999999999921,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 29.356086069539565,
+            "min": 26.070332195681942,
+            "max": 33.7775683937156,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999956,
+            "max": 1.999999999999997,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.1343156113818,
+            "min": 37.08466615732263,
+            "max": 43.06942955539713,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.08228785953405,
+            "min": 37.904724905090475,
+            "max": 44.21126099191783,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632024,
+            "min": 0.6533248114996906,
+            "max": 0.766544181160753,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.42321457601350154,
+            "min": 0.419398161599231,
+            "max": 0.4270833333333304,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6054687499999949,
+            "min": 0.4062499999999974,
+            "max": 0.7656249999999927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.476259666786323,
+            "min": 27.427756244878722,
+            "max": 34.56483938130935,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999958,
+            "min": 1.9999999999999951,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.10014664734247,
+            "min": 37.045693819292296,
+            "max": 43.06876256617159,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.05101461297157,
+            "min": 37.86575256706013,
+            "max": 44.21059400269229,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632005,
+            "min": 0.6533248114996888,
+            "max": 0.7665441811607515,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4189453124999918,
+            "min": 0.41666666666665797,
+            "max": 0.425781249999992,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.5976562499999879,
+            "min": 0.3749999999999928,
+            "max": 0.7656249999999845,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.507532913348804,
+            "min": 27.46672858290907,
+            "max": 34.57655144061442,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999907,
+            "min": 1.9999999999999898,
+            "max": 1.9999999999999916,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.08710352185185,
+            "min": 37.04569381929302,
+            "max": 43.06876256617241,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 40.03893672663991,
+            "min": 37.865752567060866,
+            "max": 44.210594002693114,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7055854752632038,
+            "min": 0.653324811499692,
+            "max": 0.7665441811607547,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.6015625,
+            "min": 0.390625,
+            "max": 0.765625,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.519610799680464,
+            "min": 27.46672858290833,
+            "max": 34.62486298594344,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 1.1201735972467581,
+          "min": 0.7362302192859431,
+          "max": 1.5997691329105592,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 12.314143295154988,
+          "min": 10.717219259835034,
+          "max": 14.06759251619529,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 11.162696451345749,
+          "min": 9.907247440860132,
+          "max": 12.467156394059188,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.012077886331661958,
+          "min": -8.242295734817162e-13,
+          "max": 0.04831154532901394,
+          "positive": 1,
+          "zero": 3,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.04335113289414316,
+          "min": 0.0006669892247188614,
+          "max": 0.07374159968815519,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 1.1635247301409013,
+          "min": 0.8099718189740983,
+          "max": 1.600436122135278,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 1,
+        "truck_count": 12
+      }
+    },
+    "C_weak_correlation": {
+      "ideal": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 60.318111904024455,
+            "min": 58.219310140775995,
+            "max": 62.240265054205565,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 61.23013688228302,
+            "min": 59.24752067426209,
+            "max": 63.168303922402345,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666666,
+            "min": 0.6666666666666666,
+            "max": 0.6666666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.888567178309586,
+            "min": 13.238830565300702,
+            "max": 20.069284030563317,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.98876379853075,
+            "min": 43.78997283727469,
+            "max": 47.20233750247449,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.99149217071968,
+            "min": 44.569387007364305,
+            "max": 48.32509881176613,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.41829427083333326,
+            "min": 0.4166666666666666,
+            "max": 0.4218749999999999,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.50390625,
+            "min": 0.09375,
+            "max": 0.6875,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.127211889872914,
+            "min": 29.75539063706509,
+            "max": 32.52219815149739,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.8606809934808,
+            "min": 43.7899728372747,
+            "max": 46.73927300992574,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.79815663274965,
+            "min": 44.56938700736432,
+            "max": 47.711083489355886,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.4140625,
+            "min": 0.09375,
+            "max": 0.6875,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.320547427842953,
+            "min": 29.80465736471615,
+            "max": 32.52219815149739,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.8606809934808,
+            "min": 43.7899728372747,
+            "max": 46.73927300992574,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.79815663274965,
+            "min": 44.56938700736432,
+            "max": 47.711083489355886,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.4140625,
+            "min": 0.09375,
+            "max": 0.6875,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.320547427842953,
+            "min": 29.80465736471615,
+            "max": 32.52219815149739,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.86068099348079,
+            "min": 43.78997283727469,
+            "max": 46.73927300992574,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.79815663274965,
+            "min": 44.569387007364305,
+            "max": 47.711083489355886,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.4140625,
+            "min": 0.09375,
+            "max": 0.6875,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.320547427842953,
+            "min": 29.80465736471615,
+            "max": 32.52219815149739,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.860680993480784,
+            "min": 43.78997283727469,
+            "max": 46.73927300992573,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.798156632749645,
+            "min": 44.569387007364305,
+            "max": 47.711083489355886,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.4140625,
+            "min": 0.09375,
+            "max": 0.6875,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.320547427842953,
+            "min": 29.804657364716157,
+            "max": 32.52219815149739,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 14.43198024953337,
+          "min": 11.93638802752072,
+          "max": 17.77133831481337,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 14.431980249533366,
+          "min": 11.93638802752072,
+          "max": 17.771338314813356,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 1.7763568394002505e-15,
+          "min": 0.0,
+          "max": 7.105427357601002e-15,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 5.329070518200751e-15,
+          "min": 0.0,
+          "max": 1.4210854715202004e-14,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 5.329070518200751e-15,
+          "min": 0.0,
+          "max": 1.4210854715202004e-14,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 3,
+        "truck_count": 12
+      },
+      "bounded": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 60.318111904024036,
+            "min": 58.21931014077558,
+            "max": 62.24026505420519,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 61.23013688228261,
+            "min": 59.24752067426168,
+            "max": 63.16830392240197,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7811870406059247,
+            "min": 0.7557955588747824,
+            "max": 0.8023328164085314,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666622,
+            "min": 0.666666666666662,
+            "max": 0.6666666666666627,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.37499999999999734,
+            "min": 0.0,
+            "max": 0.49999999999999645,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.888567178309998,
+            "min": 13.238830565301143,
+            "max": 20.069284030563736,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999964,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 48.161793881839564,
+            "min": 46.92631693029617,
+            "max": 49.824877495274364,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 49.344403045664016,
+            "min": 48.280450639946814,
+            "max": 51.001498203166705,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7811870406059248,
+            "min": 0.7557955588747828,
+            "max": 0.8023328164085317,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.455298001438147,
+            "min": 0.44547063381311536,
+            "max": 0.47184973837504557,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.8240524598541789,
+            "min": 0.6249999999999961,
+            "max": 0.9999999999999929,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 28.77430101492859,
+            "min": 27.299105247531564,
+            "max": 30.529829862767606,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999967,
+            "min": 1.9999999999999958,
+            "max": 1.9999999999999973,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 46.320893165834306,
+            "min": 44.21806032902131,
+            "max": 47.22619647250626,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 47.34364404688499,
+            "min": 45.28089783368897,
+            "max": 48.33776172857224,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7811870406059244,
+            "min": 0.7557955588747818,
+            "max": 0.8023328164085313,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4368128165555166,
+            "min": 0.42732335607658434,
+            "max": 0.4528933682677596,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.5059886299229742,
+            "min": 0.2569936647012353,
+            "max": 0.6874999999999942,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 30.775060013707613,
+            "min": 29.39367313838794,
+            "max": 31.89551991228104,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999958,
+            "min": 1.9999999999999947,
+            "max": 1.999999999999997,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.91383121739114,
+            "min": 43.78997283727428,
+            "max": 46.77248154740723,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.90650738332135,
+            "min": 44.56938700736389,
+            "max": 47.8349517946818,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605924,
+            "min": 0.755795558874782,
+            "max": 0.8023328164085315,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.42176457562460307,
+            "min": 0.41666666666666274,
+            "max": 0.4317875718534567,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.48612341617530463,
+            "min": 0.09374999999999886,
+            "max": 0.6874999999999942,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.21219667727126,
+            "min": 29.605182769573325,
+            "max": 32.522198151497776,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.999999999999995,
+            "min": 1.9999999999999938,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.869324114826384,
+            "min": 43.78997283727375,
+            "max": 46.739273009924986,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.80679975409524,
+            "min": 44.56938700736337,
+            "max": 47.71108348935498,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.7811870406059225,
+            "min": 0.7557955588747793,
+            "max": 0.802332816408529,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.41876500175380693,
+            "min": 0.4166666666666577,
+            "max": 0.42506000701525165,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.41406249999999234,
+            "min": 0.0937499999999981,
+            "max": 0.6874999999999863,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.31190430649736,
+            "min": 29.770084879331186,
+            "max": 32.5221981514983,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999907,
+            "min": 1.9999999999999882,
+            "max": 1.9999999999999938,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.860680993480784,
+            "min": 43.78997283727469,
+            "max": 46.73927300992573,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.798156632749645,
+            "min": 44.569387007364305,
+            "max": 47.711083489355886,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.781187040605926,
+            "min": 0.7557955588747838,
+            "max": 0.8023328164085328,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.4140625,
+            "min": 0.09375,
+            "max": 0.6875,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 31.320547427842953,
+            "min": 29.804657364716157,
+            "max": 32.52219815149739,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.4371366635636438,
+          "min": 0.19884795752737716,
+          "max": 0.7115108263250747,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 14.423337128187367,
+          "min": 11.901815542135346,
+          "max": 17.771338314813867,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 13.886492835397615,
+          "min": 11.525403801192098,
+          "max": 17.059827488488267,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.00864312134559242,
+          "min": -9.379164112033322e-13,
+          "max": 0.034572485384970264,
+          "positive": 1,
+          "zero": 3,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.10835075057170052,
+          "min": -4.121147867408581e-13,
+          "max": 0.23392840714476648,
+          "positive": 2,
+          "zero": 2,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 0.5454874141353443,
+          "min": 0.4109842263282175,
+          "max": 0.7115108263246626,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 3,
+        "truck_count": 12
+      }
+    },
+    "D_narrow": {
+      "ideal": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 45.06547355217326,
+            "min": 38.82073944779805,
+            "max": 55.55603129533046,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 45.45963387319207,
+            "min": 39.21959057493544,
+            "max": 55.83874870103846,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.39416032101880805,
+            "min": 0.28271740570799886,
+            "max": 0.46250089372369274,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.7083333333333334,
+            "min": 0.6666666666666666,
+            "max": 0.8333333333333334,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 1.0243333713887033,
+            "min": 0.6655221388035102,
+            "max": 1.4429670719589396,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.75,
+            "min": 1.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.87321809894168,
+            "min": 32.490668464268005,
+            "max": 51.76647471600408,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.38971828789494,
+            "min": 32.95599477926163,
+            "max": 52.33190952742008,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46483967244580776,
+            "min": 0.3988511271373895,
+            "max": 0.5654348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.359375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 8.094248956685835,
+            "min": 4.2115716141796895,
+            "max": 11.026804319459927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.87321809894168,
+            "min": 32.490668464268005,
+            "max": 51.76647471600408,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.38971828789494,
+            "min": 32.95599477926163,
+            "max": 52.33190952742008,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46483967244580776,
+            "min": 0.3988511271373895,
+            "max": 0.5654348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.359375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 8.094248956685835,
+            "min": 4.2115716141796895,
+            "max": 11.026804319459927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.87321809894168,
+            "min": 32.490668464268005,
+            "max": 51.76647471600408,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.38971828789494,
+            "min": 32.95599477926163,
+            "max": 52.33190952742008,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46483967244580776,
+            "min": 0.3988511271373895,
+            "max": 0.5654348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.359375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 8.094248956685835,
+            "min": 4.2115716141796895,
+            "max": 11.026804319459927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.87321809894168,
+            "min": 32.490668464268005,
+            "max": 51.76647471600408,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.38971828789494,
+            "min": 32.95599477926163,
+            "max": 52.33190952742008,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46483967244580776,
+            "min": 0.3988511271373895,
+            "max": 0.5654348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.359375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 8.094248956685835,
+            "min": 4.2115716141796895,
+            "max": 11.026804319459927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.87321809894168,
+            "min": 32.490668464268005,
+            "max": 51.76647471600408,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.38971828789494,
+            "min": 32.95599477926163,
+            "max": 52.33190952742008,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46483967244580776,
+            "min": 0.3988511271373895,
+            "max": 0.5654348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.359375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 8.094248956685835,
+            "min": 4.2115716141796895,
+            "max": 11.026804319459927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 7.069915585297132,
+          "min": 3.5068391736183813,
+          "max": 9.583837247500988,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 7.069915585297132,
+          "min": 3.5068391736183813,
+          "max": 9.583837247500988,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      },
+      "bounded": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 46.40926531318864,
+            "min": 39.88511271373895,
+            "max": 56.54348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 46.4670779249041,
+            "min": 39.88511271373895,
+            "max": 56.54348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.05781261171546159,
+            "min": 0.0,
+            "max": 0.23125044686184637,
+            "positive": 1,
+            "zero": 3,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.9892793072744764,
+            "min": 0.9571172290979058,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.016889319676675285,
+            "min": 0.0,
+            "max": 0.06755727870670114,
+            "positive": 1,
+            "zero": 3,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.25,
+            "min": 0.0,
+            "max": 1.0,
+            "positive": 1,
+            "zero": 3,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 44.86320236336971,
+            "min": 39.55639182917264,
+            "max": 55.67232442957551,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 45.22118423777418,
+            "min": 39.755817392741335,
+            "max": 55.95504183528351,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.3443039301266341,
+            "min": 0.19942556356869476,
+            "max": 0.46250089372369213,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.8561921685185292,
+            "min": 0.7710401814852169,
+            "max": 0.9350419799208758,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0948601535709969,
+            "min": 0.0,
+            "max": 0.3794406142839876,
+            "positive": 1,
+            "zero": 3,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 1.262783006806588,
+            "min": 0.12929532099761332,
+            "max": 2.6216998173334574,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.4999999999999987,
+            "min": 1.0,
+            "max": 1.9999999999999973,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.12506634264945,
+            "min": 33.458898221887274,
+            "max": 52.73318157636729,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 39.66038249193143,
+            "min": 33.99069972473713,
+            "max": 53.29861638778329,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4648396724458066,
+            "min": 0.3988511271373886,
+            "max": 0.5654348114159963,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6460497568456223,
+            "min": 0.6369949663354127,
+            "max": 0.6632857392065049,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.37461290782871476,
+            "min": 0.0,
+            "max": 0.49999999999999595,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 6.823584752649344,
+            "min": 3.244864753816479,
+            "max": 9.514250589691414,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999951,
+            "min": 1.9999999999999951,
+            "max": 1.9999999999999956,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 39.03047571560865,
+            "min": 33.38954678997527,
+            "max": 52.699366782077554,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 39.55714601878959,
+            "min": 33.88811069889701,
+            "max": 53.26480159349355,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4648396724458068,
+            "min": 0.3988511271373887,
+            "max": 0.5654348114159966,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6209294539251565,
+            "min": 0.6111900938498518,
+            "max": 0.6459240701433734,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.3722795547926462,
+            "min": 0.0,
+            "max": 0.4999999999999961,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 6.926821225791183,
+            "min": 3.2786795481062185,
+            "max": 9.587329558722914,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.999999999999996,
+            "min": 1.9999999999999958,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 38.90108737552224,
+            "min": 33.35481191537021,
+            "max": 52.489065882090884,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 39.419840542900005,
+            "min": 33.82013823036383,
+            "max": 53.05450069350688,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4648396724458055,
+            "min": 0.3988511271373876,
+            "max": 0.5654348114159949,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.601003386238852,
+            "min": 0.5789949130988928,
+            "max": 0.6279884561233197,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.37499999999999273,
+            "min": 0.0,
+            "max": 0.49999999999999056,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 7.06412670168077,
+            "min": 3.4889804480928888,
+            "max": 9.671269262134764,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999902,
+            "min": 1.99999999999999,
+            "max": 1.9999999999999902,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 37.87321809894168,
+            "min": 32.490668464268005,
+            "max": 51.76647471600408,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 38.38971828789494,
+            "min": 32.95599477926163,
+            "max": 52.33190952742008,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46483967244580776,
+            "min": 0.3988511271373895,
+            "max": 0.5654348114159977,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.359375,
+            "min": 0.0,
+            "max": 0.5,
+            "positive": 3,
+            "zero": 1,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 8.094248956685835,
+            "min": 4.2115716141796895,
+            "max": 11.026804319459927,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.10323647314183937,
+          "min": 0.033814794289739325,
+          "max": 0.20346310340600127,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 7.047237382004095,
+          "min": 3.4889804480928888,
+          "max": 9.603711983428063,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 6.806695432972669,
+          "min": 3.244864753816479,
+          "max": 9.446693310984713,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 1.0301222550050646,
+          "min": 0.7225911660868007,
+          "max": 1.355535057325163,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 1.1674277308946515,
+          "min": 0.932115919635379,
+          "max": 1.4394747607370135,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 1.2706642040364908,
+          "min": 0.9667068603632103,
+          "max": 1.5686912805387436,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      }
+    },
+    "D_response_narrow": {
+      "ideal": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      },
+      "bounded": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8792130487822,
+            "min": 24.32405108325912,
+            "max": 44.15255406186152,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "positive": 0,
+            "zero": 4,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      }
+    },
+    "E_near_shapes": {
+      "ideal": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.29497396816243,
+            "min": 24.75635225461074,
+            "max": 34.46870892496762,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.874735765541143,
+            "min": 25.250751203678014,
+            "max": 35.16421418605052,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666666,
+            "min": 0.6666666666666666,
+            "max": 0.6666666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.5625,
+            "min": 0.5,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.591442688859054,
+            "min": 12.753272937839906,
+            "max": 19.487515848912615,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.27317249179106,
+            "min": 23.83112683125277,
+            "max": 33.43405596060213,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.820174485796116,
+            "min": 24.325525780320046,
+            "max": 34.08609214286735,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4583333333333333,
+            "min": 0.4583333333333333,
+            "max": 0.4583333333333333,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.515625,
+            "min": 0.3125,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.646003968604077,
+            "min": 13.880781749639524,
+            "max": 20.574904689551957,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.088913739784353,
+            "min": 23.66122646014795,
+            "max": 33.23537442027118,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.635915733789407,
+            "min": 24.08315529086404,
+            "max": 33.8874106025364,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.515625,
+            "min": 0.3125,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.830262720610783,
+            "min": 14.129267113611885,
+            "max": 20.749408591817662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.088913739784353,
+            "min": 23.66122646014795,
+            "max": 33.23537442027118,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.635915733789407,
+            "min": 24.08315529086404,
+            "max": 33.8874106025364,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.515625,
+            "min": 0.3125,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.830262720610783,
+            "min": 14.129267113611885,
+            "max": 20.749408591817662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.27317249179106,
+            "min": 23.83112683125277,
+            "max": 33.43405596060213,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.820174485796116,
+            "min": 24.325525780320046,
+            "max": 34.08609214286735,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4583333333333333,
+            "min": 0.4583333333333333,
+            "max": 0.4583333333333333,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.515625,
+            "min": 0.3125,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.646003968604077,
+            "min": 13.880781749639524,
+            "max": 20.574904689551957,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.088913739784346,
+            "min": 23.661226460147947,
+            "max": 33.23537442027118,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.635915733789403,
+            "min": 24.083155290864035,
+            "max": 33.8874106025364,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.515625,
+            "min": 0.3125,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.83026272061079,
+            "min": 14.129267113611888,
+            "max": 20.749408591817662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 1.054561279745025,
+          "min": 0.9252254233579684,
+          "max": 1.1275088117996184,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 1.2388200317517342,
+          "min": 1.0405896248157873,
+          "max": 1.3759941757719787,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 0.18425875200671094,
+          "min": 0.11536420145782245,
+          "max": 0.24848536397236387,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 1.7763568394002505e-15,
+          "min": 0.0,
+          "max": 3.552713678800501e-15,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 1.7763568394002505e-15,
+          "min": 0.0,
+          "max": 3.552713678800501e-15,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      },
+      "bounded": {
+        "D1": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.294973968162225,
+            "min": 24.756352254610565,
+            "max": 34.46870892496737,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.874735765540933,
+            "min": 25.250751203677837,
+            "max": 35.16421418605027,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.46466178454400114,
+            "min": 0.3821242240447586,
+            "max": 0.5311234405471255,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.666666666666662,
+            "min": 0.666666666666662,
+            "max": 0.666666666666662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.562499999999996,
+            "min": 0.49999999999999645,
+            "max": 0.7499999999999947,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.59144268885926,
+            "min": 12.753272937840084,
+            "max": 19.48751584891285,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999964,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D2": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.29497396816202,
+            "min": 24.756352254610388,
+            "max": 34.46870892496713,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.874735765540724,
+            "min": 25.25075120367766,
+            "max": 35.16421418605003,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4646617845440003,
+            "min": 0.3821242240447579,
+            "max": 0.5311234405471245,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666571,
+            "min": 0.6666666666666571,
+            "max": 0.6666666666666571,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.562499999999992,
+            "min": 0.4999999999999929,
+            "max": 0.7499999999999893,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.591442688859466,
+            "min": 12.753272937840261,
+            "max": 19.487515848913084,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.999999999999993,
+            "min": 1.999999999999993,
+            "max": 1.999999999999993,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.0143495521875,
+            "min": 24.5573069098329,
+            "max": 34.17411373773403,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.588011727399227,
+            "min": 25.05170585890017,
+            "max": 34.845220510149026,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4646617845440011,
+            "min": 0.38212422404475854,
+            "max": 0.5311234405471253,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6218911696735546,
+            "min": 0.6153899269663312,
+            "max": 0.6311185242514159,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.5624999999999958,
+            "min": 0.4999999999999962,
+            "max": 0.7499999999999943,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.878166727000963,
+            "min": 13.031203892449145,
+            "max": 19.838442026191686,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999964,
+            "min": 1.9999999999999962,
+            "max": 1.9999999999999964,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3+": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.119350467394554,
+            "min": 23.670441641781032,
+            "max": 33.24873367537534,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.666352461399608,
+            "min": 24.09237047249712,
+            "max": 33.90076985764056,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4646617845440008,
+            "min": 0.3821242240447582,
+            "max": 0.5311234405471252,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.44259803098021905,
+            "min": 0.43071509117259804,
+            "max": 0.4653169775533834,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.5156249999999949,
+            "min": 0.3124999999999967,
+            "max": 0.7499999999999921,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.79982599300059,
+            "min": 14.120051931978804,
+            "max": 20.674294021230473,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999951,
+            "min": 1.9999999999999942,
+            "max": 1.999999999999996,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D4": {
+          "clearance": {
+            "n": 4,
+            "mean": 29.2949739681616,
+            "min": 24.756352254610036,
+            "max": 34.468708924966634,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 29.8747357655403,
+            "min": 25.250751203677304,
+            "max": 35.16421418604952,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.4646617845439987,
+            "min": 0.38212422404475654,
+            "max": 0.5311234405471226,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.6666666666666478,
+            "min": 0.6666666666666478,
+            "max": 0.6666666666666479,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.562499999999984,
+            "min": 0.4999999999999858,
+            "max": 0.7499999999999787,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 16.591442688859892,
+            "min": 12.753272937840617,
+            "max": 19.48751584891356,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 1.9999999999999858,
+            "min": 1.9999999999999858,
+            "max": 1.9999999999999858,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D5": {
+          "clearance": {
+            "n": 4,
+            "mean": 28.088913739784346,
+            "min": 23.661226460147947,
+            "max": 33.23537442027118,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "objective": {
+            "n": 4,
+            "mean": 28.635915733789403,
+            "min": 24.083155290864035,
+            "max": 33.8874106025364,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "test_cost": {
+            "n": 4,
+            "mean": 0.464661784544002,
+            "min": 0.38212422404475926,
+            "max": 0.5311234405471263,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "retained": {
+            "n": 4,
+            "mean": 0.4166666666666666,
+            "min": 0.4166666666666666,
+            "max": 0.4166666666666666,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "formation_change": {
+            "n": 4,
+            "mean": 0.515625,
+            "min": 0.3125,
+            "max": 0.75,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "net_value": {
+            "n": 4,
+            "mean": 17.83026272061079,
+            "min": 14.129267113611888,
+            "max": 20.749408591817662,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          },
+          "tests": {
+            "n": 4,
+            "mean": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "positive": 4,
+            "zero": 0,
+            "negative": 0
+          }
+        },
+        "D3_to_D3+": {
+          "n": 4,
+          "mean": 0.9216592659996223,
+          "min": 0.817486376921579,
+          "max": 1.0888480395296583,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D1_to_D4": {
+          "n": 4,
+          "mean": 6.323830348264892e-13,
+          "min": 5.329070518200751e-13,
+          "max": 7.531752999057062e-13,
+          "positive": 0,
+          "zero": 4,
+          "negative": 0
+        },
+        "D1_to_D3": {
+          "n": 4,
+          "mean": 0.28672403814170266,
+          "min": 0.1990453447776659,
+          "max": 0.35092617727883635,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D4_to_D5": {
+          "n": 4,
+          "mean": 1.238820031750894,
+          "min": 1.0405896248150803,
+          "max": 1.3759941757712717,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3+_to_D5": {
+          "n": 4,
+          "mean": 0.03043672761020133,
+          "min": 0.009215181633084768,
+          "max": 0.07511457058718918,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "D3_to_D5": {
+          "n": 4,
+          "mean": 0.9520959936098237,
+          "min": 0.8415442800379473,
+          "max": 1.098063221162743,
+          "positive": 4,
+          "zero": 0,
+          "negative": 0
+        },
+        "unavailable_interior_trucks": 0,
+        "truck_count": 12
+      }
+    }
+  },
+  "counts": {
+    "fleets": 24,
+    "matched_policy_rows": 576,
+    "cost_policy_rows": 2100,
+    "all_boundary_corner_checks": 19456
+  },
+  "costs": {
+    "cases": 300,
+    "preferred_canonical": {
+      "D4": 10,
+      "D2": 64,
+      "stop": 134,
+      "D1": 34,
+      "D3+": 14,
+      "D3": 44
+    },
+    "cooptimal_count_distribution": {
+      "1": 154,
+      "5": 134,
+      "2": 9,
+      "4": 2,
+      "3": 1
+    },
+    "joint_over_fixed": {
+      "n": 300,
+      "mean": 0.011373282729200795,
+      "min": -2.0605739337042905e-13,
+      "max": 0.3429927159511621,
+      "positive": 30,
+      "zero": 270,
+      "negative": 0
+    },
+    "myopic_regret": {
+      "n": 300,
+      "mean": 0.015345347926849549,
+      "min": -2.842170943040401e-14,
+      "max": 0.4641473886771337,
+      "positive": 24,
+      "zero": 276,
+      "negative": 0
+    }
+  },
+  "continuous": {
+    "cases": 150,
+    "converged": 150,
+    "max_width": 0.01997592244099167,
+    "max_ideal_width": 1.6106582734209954e-10,
+    "exact_D4_identified": 6,
+    "comparisons": [
+      {
+        "box": "broad_interior",
+        "shape": "first_order",
+        "noise": 0,
+        "D3plus_gain_lower": 3.2398340135864596,
+        "D3plus_gain_upper": 3.239834013747583,
+        "D4_gap_to_D5_lower": 0.0,
+        "D4_gap_to_D5_upper": 0.0,
+        "unavailable": false,
+        "D4_same_support_as_D5": true
+      },
+      {
+        "box": "broad_interior",
+        "shape": "first_order",
+        "noise": 1,
+        "D3plus_gain_lower": 3.3478111051174007,
+        "D3plus_gain_upper": 3.3876297006658977,
+        "D4_gap_to_D5_lower": 2.9600576899804873,
+        "D4_gap_to_D5_upper": 2.9798712210269973,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "broad_interior",
+        "shape": "first_order",
+        "noise": 2,
+        "D3plus_gain_lower": 3.1147653257352768,
+        "D3plus_gain_upper": 3.146487335185839,
+        "D4_gap_to_D5_lower": 4.910783721014822,
+        "D4_gap_to_D5_upper": 4.930608109844003,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "broad_interior",
+        "shape": "ramp",
+        "noise": 0,
+        "D3plus_gain_lower": 1.1317798353908868,
+        "D3plus_gain_upper": 1.131779835391001,
+        "D4_gap_to_D5_lower": 0.0,
+        "D4_gap_to_D5_upper": 0.0,
+        "unavailable": false,
+        "D4_same_support_as_D5": true
+      },
+      {
+        "box": "broad_interior",
+        "shape": "ramp",
+        "noise": 1,
+        "D3plus_gain_lower": 0.9112578108207997,
+        "D3plus_gain_upper": 0.9472439934348246,
+        "D4_gap_to_D5_lower": 2.9874667972920146,
+        "D4_gap_to_D5_upper": 3.005464265636761,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "broad_interior",
+        "shape": "ramp",
+        "noise": 2,
+        "D3plus_gain_lower": 0.9077369177792319,
+        "D3plus_gain_upper": 0.9447542964809515,
+        "D4_gap_to_D5_lower": 4.096659289169124,
+        "D4_gap_to_D5_upper": 4.115788120192264,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "early_plateau",
+        "shape": "first_order",
+        "noise": 0,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 0.0,
+        "D4_gap_to_D5_upper": 0.0,
+        "unavailable": true,
+        "D4_same_support_as_D5": true
+      },
+      {
+        "box": "early_plateau",
+        "shape": "first_order",
+        "noise": 1,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 2.9041779290459853,
+        "D4_gap_to_D5_upper": 2.923733425632975,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "early_plateau",
+        "shape": "first_order",
+        "noise": 2,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 3.9260241449276942,
+        "D4_gap_to_D5_upper": 3.9380613782051914,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "early_plateau",
+        "shape": "ramp",
+        "noise": 0,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 1.0609541666666045,
+        "D4_gap_to_D5_upper": 1.0609541666667186,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "early_plateau",
+        "shape": "ramp",
+        "noise": 1,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 2.030369595712656,
+        "D4_gap_to_D5_upper": 2.0499250922996457,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "early_plateau",
+        "shape": "ramp",
+        "noise": 2,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 3.052215811594365,
+        "D4_gap_to_D5_upper": 3.064253044871862,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "late_onset",
+        "shape": "first_order",
+        "noise": 0,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 6.512199999999935,
+        "D4_gap_to_D5_upper": 6.512200000000079,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "late_onset",
+        "shape": "first_order",
+        "noise": 1,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 7.482304821135826,
+        "D4_gap_to_D5_upper": 7.501874050632993,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "late_onset",
+        "shape": "first_order",
+        "noise": 2,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 8.504859655181589,
+        "D4_gap_to_D5_upper": 8.516905128205211,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "late_onset",
+        "shape": "ramp",
+        "noise": 0,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 5.598749999999938,
+        "D4_gap_to_D5_upper": 5.598750000000082,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "late_onset",
+        "shape": "ramp",
+        "noise": 1,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 6.568854821135829,
+        "D4_gap_to_D5_upper": 6.588424050632995,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "late_onset",
+        "shape": "ramp",
+        "noise": 2,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 7.591409655181592,
+        "D4_gap_to_D5_upper": 7.603455128205213,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "narrow",
+        "shape": "first_order",
+        "noise": 0,
+        "D3plus_gain_lower": 1.7320830661109594,
+        "D3plus_gain_upper": 1.7320830661110878,
+        "D4_gap_to_D5_lower": 0.0,
+        "D4_gap_to_D5_upper": 0.0,
+        "unavailable": false,
+        "D4_same_support_as_D5": true
+      },
+      {
+        "box": "narrow",
+        "shape": "first_order",
+        "noise": 1,
+        "D3plus_gain_lower": 1.4150397409986935,
+        "D3plus_gain_upper": 1.4431869880722703,
+        "D4_gap_to_D5_lower": 1.2053913969456997,
+        "D4_gap_to_D5_upper": 1.2250745413556674,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "narrow",
+        "shape": "first_order",
+        "noise": 2,
+        "D3plus_gain_lower": 0.9248476562499518,
+        "D3plus_gain_upper": 0.9389735416664281,
+        "D4_gap_to_D5_lower": 1.4294810373247058,
+        "D4_gap_to_D5_upper": 1.4494527178492975,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "narrow",
+        "shape": "ramp",
+        "noise": 0,
+        "D3plus_gain_lower": 0.2258436213991217,
+        "D3plus_gain_upper": 0.22584362139923544,
+        "D4_gap_to_D5_lower": 0.0,
+        "D4_gap_to_D5_upper": 0.0,
+        "unavailable": false,
+        "D4_same_support_as_D5": true
+      },
+      {
+        "box": "narrow",
+        "shape": "ramp",
+        "noise": 1,
+        "D3plus_gain_lower": 0.4579699403967083,
+        "D3plus_gain_upper": 0.4916010923560635,
+        "D4_gap_to_D5_lower": 1.386157733199738,
+        "D4_gap_to_D5_upper": 1.4027033487795253,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "narrow",
+        "shape": "ramp",
+        "noise": 2,
+        "D3plus_gain_lower": 0.29353833007806424,
+        "D3plus_gain_upper": 0.3125000000000569,
+        "D4_gap_to_D5_lower": 1.473819883966186,
+        "D4_gap_to_D5_upper": 1.4930935706931907,
+        "unavailable": false,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "no_common_interior",
+        "shape": "first_order",
+        "noise": 0,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 0.0,
+        "D4_gap_to_D5_upper": 0.0,
+        "unavailable": true,
+        "D4_same_support_as_D5": true
+      },
+      {
+        "box": "no_common_interior",
+        "shape": "first_order",
+        "noise": 1,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 2.637169174587896,
+        "D4_gap_to_D5_upper": 2.6552379587235753,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "no_common_interior",
+        "shape": "first_order",
+        "noise": 2,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 3.672657764823611,
+        "D4_gap_to_D5_upper": 3.692315668896811,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "no_common_interior",
+        "shape": "ramp",
+        "noise": 0,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 1.3321874999999321,
+        "D4_gap_to_D5_upper": 1.3321875000000463,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "no_common_interior",
+        "shape": "ramp",
+        "noise": 1,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 2.5888989057326763,
+        "D4_gap_to_D5_upper": 2.6085850177241814,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      },
+      {
+        "box": "no_common_interior",
+        "shape": "ramp",
+        "noise": 2,
+        "D3plus_gain_lower": 0.0,
+        "D3plus_gain_upper": 0.0,
+        "D4_gap_to_D5_lower": 3.8651564518578847,
+        "D4_gap_to_D5_upper": 3.885132374298934,
+        "unavailable": true,
+        "D4_same_support_as_D5": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+scenario,error_source,dt_s,N_tau,mean_excess_m,maximum_excess_m
+Overlap,time discretisation,0.02,NaN,4.2666666723158e-07,3.84000000508422e-06
+Overlap,time discretisation,0.01,NaN,2.66666672940927e-08,2.40000005646834e-07
+Overlap,time discretisation,0.005,NaN,2.66666672940927e-08,2.40000005646834e-07
+Overlap,time discretisation,0.002,NaN,0,0
+Overlap,time discretisation,0.001,NaN,0,0
+Overlap,tau support outer snapping,NaN,21,0.0656721783912445,0.247655382365821
+Overlap,tau support outer snapping,NaN,51,0.0263964243730286,0.0986684085387282
+Overlap,tau support outer snapping,NaN,101,0.0131789986752226,0.049274847112315
+Overlap,tau support outer snapping,NaN,201,0.00662218973444731,0.0251047505471007
+Overlap,tau support outer snapping,NaN,401,0.00330336870778535,0.0124464800227457
+Fitted proxy,time discretisation,0.02,NaN,7.09254532379096e-06,2.95519127817556e-05
+Fitted proxy,time discretisation,0.01,NaN,1.49710219411582e-06,7.5517468793862e-06
+Fitted proxy,time discretisation,0.005,NaN,2.6218410987945e-07,1.91191487353137e-06
+Fitted proxy,time discretisation,0.002,NaN,4.51008782912747e-08,3.87161632531274e-07
+Fitted proxy,time discretisation,0.001,NaN,4.23844406485488e-09,1.93997244934963e-08
+Fitted proxy,tau support outer snapping,NaN,21,0.0120221815942616,0.0984479598966601
+Fitted proxy,tau support outer snapping,NaN,51,0.00473582790573067,0.0389086637849587
+Fitted proxy,tau support outer snapping,NaN,101,0.0024186772460205,0.0195058924235525
+Fitted proxy,tau support outer snapping,NaN,201,0.00119482498387893,0.00974912216222634
+Fitted proxy,tau support outer snapping,NaN,401,0.000612239699283914,0.0049287571336265
+Narrow,time discretisation,0.02,NaN,6.67621415731092e-07,2.99999999242573e-06
+Narrow,time discretisation,0.01,NaN,7.5737934837308e-08,4.80000004188241e-07
+Narrow,time discretisation,0.005,NaN,2.57379346477491e-08,2.0164140934753e-07
+Narrow,time discretisation,0.002,NaN,2.08779166794355e-10,1.87900539572183e-09
+Narrow,time discretisation,0.001,NaN,2.08779166794355e-10,1.87900539572183e-09
+Narrow,tau support outer snapping,NaN,21,3.2955608703111e-05,0.00688978707745491
+Narrow,tau support outer snapping,NaN,51,1.27090659948242e-05,0.00284197495989247
+Narrow,tau support outer snapping,NaN,101,6.41662804793934e-06,0.00131565571290082
+Narrow,tau support outer snapping,NaN,201,3.39911025401326e-06,0.000764051077425165
+Narrow,tau support outer snapping,NaN,401,1.57062374895744e-06,0.00038118869265702

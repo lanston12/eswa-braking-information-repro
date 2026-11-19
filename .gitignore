@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+empirical/ESWA_EMPIRICAL_EVIDENCE_OUTPUT/
+verification_report.json
+synthetic/recomputed/
+*.asv

@@ -1,0 +1,13 @@
+scenario,paired_contrast,n_replications,mean_difference_m,median_difference_m,sd_difference_m,t95_lower_m,t95_upper_m,bootstrap95_lower_m,bootstrap95_upper_m,positive_fraction,zero_fraction,negative_fraction
+Constructed overlapping-response case,Decision-aware minus random sampled,30,0.145542889662379,0,0.21409291633881,0.0656082570799444,0.225477522244813,0.0711916630594461,0.222697911824972,0.466666666666667,0.533333333333333,0
+Constructed overlapping-response case,Decision-aware minus random expected,30,0.166287785415103,0.167732047292484,0.0126496214887854,0.16156486948073,0.171010701349476,0.161895518316001,0.170771999051656,1,0,0
+Constructed overlapping-response case,Decision-aware minus variance-first stop,30,0.467732796340167,0.465741163967876,0.0169563889509994,0.46140188757447,0.474063705105864,0.461623068425778,0.473585996866647,1,0,0
+Constructed overlapping-response case,Decision-aware minus variance forced,30,0.606177294470056,0.600982384762744,0.0266529727419484,0.596226028357236,0.616128560582877,0.597113875668658,0.615573460514096,1,0,0
+composition of fitted anchors from one truck,Decision-aware minus random sampled,30,0,0,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Decision-aware minus random expected,30,0,0,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Decision-aware minus variance-first stop,30,0,0,0,0,0,0,0,0,1,0
+composition of fitted anchors from one truck,Decision-aware minus variance forced,30,0.368411062794936,0.366488813568776,0.0123973466577983,0.363782337253545,0.373039788336326,0.36402494957768,0.372771919347193,1,0,0
+Narrow-support negative control,Decision-aware minus random sampled,30,0,0,0,0,0,0,0,0,1,0
+Narrow-support negative control,Decision-aware minus random expected,30,0,0,0,0,0,0,0,0,1,0
+Narrow-support negative control,Decision-aware minus variance-first stop,30,0,0,0,0,0,0,0,0,1,0
+Narrow-support negative control,Decision-aware minus variance forced,30,0.699894325376379,0.699916579255991,7.9543937018272e-05,0.699864626517171,0.699924024235587,0.69986315707607,0.69991953186009,1,0,0

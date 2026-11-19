@@ -1,0 +1,13 @@
+G0,channel,extra_expected_measurements,extra_expected_seconds,gross_net_gain,group,sample_break_even,scope
+71.11022027531783,ideal,2.0,1.2677491960974798,8.127590852342408,A_equal_t90,0.05714783909313436,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+71.11022027531783,bounded,1.9999999999999574,1.2677491960974212,7.236478813610859,A_equal_t90,0.050882129077884294,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+66.11692343187866,ideal,2.0,0.8087727310431063,0.0,B_independent,0.0,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+66.11692343187866,bounded,1.9999999999999747,0.8087727310431081,0.7362302192859431,B_independent,0.0055676382162919485,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+79.54618870258123,ideal,1.0,0.478111082113049,0.0,C_weak_correlation,0.0,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+79.54618870258123,bounded,1.374999999999992,0.758474042276502,0.19884795752737716,C_weak_correlation,0.001818021689565312,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+43.2571857506151,ideal,2.0,0.8777724629865915,0.0,D_narrow,0.0,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+43.2571857506151,bounded,1.9999999999999902,0.8777724629865755,0.20346310340600127,D_narrow,0.0023517838698407364,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+42.37705277719486,ideal,2.0,0.29998037717619397,0.0,E_near_shapes,0.0,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+42.37705277719486,bounded,1.9999999999999618,0.299980377176162,0.817486376921579,E_near_shapes,0.009645389702059737,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+24.32405108325912,ideal,1.0,0.26751807701819175,0.0,D_response_narrow,0.0,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.
+24.32405108325912,bounded,0,0,0.0,D_response_narrow,,Fixed reference policies; duration coefficient zero. Global optimized choices are in the full region table.

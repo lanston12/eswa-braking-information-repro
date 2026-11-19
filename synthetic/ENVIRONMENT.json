@@ -1,0 +1,17 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "sympy": "1.14.0",
+    "mpmath": "1.3.0",
+    "matplotlib": "3.11.2",
+    "pypandoc-binary": "1.17",
+    "pypdf": "6.10.0",
+    "Pillow": "13.0.0"
+  },
+  "latex": "TeX Live 2026; pdfTeX 1.40.29; elsarticle 3.5",
+  "seed_source": "Frozen data JSON and SHA-256 companions",
+  "date": "2026-11-07"
+}
